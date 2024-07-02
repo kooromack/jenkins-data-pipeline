@@ -1,1 +1,1 @@
-Ceci est mon pipeline de donnée
+Ceci est mon pipeline pour faire l'analyse de données.
